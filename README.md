@@ -40,6 +40,7 @@ problem Requirment:
 * 6- Print the training accuracy and testing accuracy (# of correctly classified samples / total samples).
 
 problem Output:
+<br>
 <img src="https://github.com/Mohamed-Hamdy/Computer-vision-problems-/blob/master/images/Hog%20output.png">
 
 <h4><a href="https://learnopencv.com/histogram-of-oriented-gradients/">Explanation of the algorithm</a>:</h4>
@@ -58,6 +59,7 @@ MNIST dataset:
 mnist dataset is a dataset of handwritten images as shown below in image.<br>
 
 problem Output:
+<br>
 <img src="https://github.com/Mohamed-Hamdy/Computer-vision-problems-/blob/master/images/CNN%20Prediction_image.jpg">
 
 <h4><a href="https://www.geeksforgeeks.org/applying-convolutional-neural-network-on-mnist-dataset/">Explanation of the algorithm</a>:</h4>
@@ -76,6 +78,7 @@ What is image stitching?
 At the beginning of the stitching process, as input, we have several images with overlapping areas. The output is a unification of these images. It is important to note that a full scene from the input image must be preserved in the process.
 
 problem Output:
+<br>
 <img src="https://github.com/Mohamed-Hamdy/Computer-vision-problems-/blob/master/images/panorama%20image.png">
 
 <h4><a href="http://datahacker.rs/005-how-to-create-a-panorama-image-using-opencv-with-python/">Explanation of the algorithm</a>:</h4>
